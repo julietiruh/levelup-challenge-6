@@ -1,0 +1,9 @@
+.cotnainer[class^=col-]{
+    padding-top: 10px;
+    padding-bottom:20px;
+    background-color: sandybrown;
+    border: 1px solid;
+}
+.row{
+    margin: 50px;
+}
